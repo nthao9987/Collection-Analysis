@@ -32,3 +32,61 @@ The Head of Finance at "Bank X" wants to analyze the debt recovery efficiency of
 
 ## III. Dashboard
 ### 1. Overview
+<img width="807" alt="Ảnh chụp Màn hình 2023-08-01 lúc 20 45 02" src="https://github.com/nthao9987/Collection-Analysis/assets/80058129/6f5a7b62-e0fc-4eb3-ae63-a7bc1d9f9209">
+
+### 2. Loan Profile
+<img width="834" alt="Ảnh chụp Màn hình 2023-08-01 lúc 20 46 39" src="https://github.com/nthao9987/Collection-Analysis/assets/80058129/1e38d248-8e64-4075-b5db-f9d9240ac4fb">
+
+### 3. Loan Recovery
+<img width="838" alt="Ảnh chụp Màn hình 2023-08-01 lúc 21 04 12" src="https://github.com/nthao9987/Collection-Analysis/assets/80058129/3cbda955-1abc-4d0a-83d0-d09b25cbf9c6">
+
+
+## IV. Insights
+**1. In terms of total collection**
+* ASA, HMK, GLX, NDC, TCG are the top companies with a lot of payment.
+* BFC, FBI, TDO companies collect the least amount of loan.
+
+**2. In terms of Loan terms**
+* Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
+* Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
+* Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
+* Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
+
+**3. In terms of Recovery rate**
+* The top companies with high revocery rates are: ASA>GLX>HMK.
+* Unsecured loan is the most popular product (25.11%), but its recovery rate is lowest among companies.
+* Secured loan has the lowest recovery rate despite its strict procedure.
+
+4. Customers have a high demand for mid-term loans 37.79%, then short-term: 28.49%, long-term: 20.82%.
+
+5. Credit card and Overdraft are popular (24.83% and 19.31%), but total PR is not high, perhaps because the customers of these 2 products are mainly individuals. -> The recovery rates of them are high.
+
+6. Short-term is the easiest loan to claim (the highest recovery rate: 1.55%).
+
+7. Deadloan has the highest amount of loan: Unsecured Loan, Secured Loan, Credit Card.
+
+## V. Recommendations
+**1. To collect a large amount of loan (total collected):**
+Debt allocation according to loan term to OS_company
+* Short-term: GLX, ASA, HMK
+* Mid-term: ASA, GLX, NDC
+* Long-term: ASA, HMK, NDC
+* Deadloan: NDC
+
+**2. For high recovery rate**
+* Short-term: AMG, BFC, NDC
+* Mid-term: NDC, GLX, ASA
+* Long-term: NDC, TCG, ASA
+* Deadloan: HMK
+
+3. Consider whether the following companies should cooperate in the future because of the inefficient collection performance: FBI, TDO, BFC.
+4. Expand and promote the Mid-term loan package because it has the highest recovery rate.
+5. Investigate why secured loan has low recovery rate and take neccessary measures (review loan procedures, add requirements,etc.)
+   
+
+
+
+
+
+
+
