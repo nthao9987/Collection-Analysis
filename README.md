@@ -47,10 +47,10 @@ The Head of Finance at "Bank X" wants to analyze the debt recovery efficiency of
 * BFC, FBI, TDO companies collect the least amount of loan.
 
 **2. In terms of Loan terms**
-* Mid-term: the companies with the highest total collection are: ASA> HMK>NDC>TCG>GLX
-* Long-term: the companies with the highest total collection are: GLX>HMK>ASA>NDC>TCG
-* Short-term: the companies with the highest total collection are: GLX>HMK>ASA>TCG>NDC
-* Deadloan: the companies with the highest total collection are: NDC>FBI>GLX>ASA
+* Short-term: the companies with the highest total collection are: GLX>ASA>HMK>NDC>TCG
+* Mid-term: the companies with the highest total collection are: ASA>GLX>NDC>HMK>TCG
+* Long-term: the companies with the highest total collection are: ASA>HMK>NDC>TCG>GLX
+* Deadloan: the companies with the highest total collection are: NDC>FBI>GLX
 
 **3. In terms of Recovery rate**
 * The top companies with high revocery rates are: ASA>GLX>HMK.
