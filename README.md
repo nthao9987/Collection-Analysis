@@ -1,4 +1,4 @@
-<img width="940" alt="Ảnh chụp Màn hình 2023-08-01 lúc 20 20 33" src="https://github.com/nthao9987/Collection-Analysis/assets/80058129/a939ad90-3f35-4415-89c6-afe620ffb32b"># Collection Analysis
+# Collection Analysis
 The Head of Finance at "Bank X" wants to analyze the debt recovery efficiency of its partners. This analysis will help them decide on the allocation of the debt portfolio in the next quarter and determine an appropriate cooperation strategy. The goal is to ensure optimal debt recovery rates and maximize profits.
 
 ## I. Introduction
